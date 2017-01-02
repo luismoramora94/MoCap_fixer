@@ -1,2 +1,2 @@
 # MoCap_fixer
-Corrector de glitches para datos de captura de movimiento en CSV
+Corrector de glitches para datos de captura de movimiento en BVH
